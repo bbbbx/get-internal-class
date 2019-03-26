@@ -1,3 +1,5 @@
+"use strict"
+
 /**
  * Get object internal property [[Class]].
  * @param {any} obj 
