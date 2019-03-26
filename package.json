@@ -1,14 +1,14 @@
 {
   "name": "get-internal-class",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get JS object internal property [[Class]].",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["class", "[[Class]]", "internal property"],
+  "author": "Venus <venus@venusworld.cn> (venusworld.cn)",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^24.5.0"
   }
