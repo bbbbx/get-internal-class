@@ -33,6 +33,6 @@
 [travis-image]: https://img.shields.io/travis/bbbbx/get-internal-class/master.svg?label=test
 [travis-url]: https://www.travis-ci.org/bbbbx/get-internal-class
 
-## Lisense
+## License
 
 MIT
